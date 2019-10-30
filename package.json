@@ -1,0 +1,25 @@
+{
+  "name": "chatBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billxu0521/chatBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billxu0521/chatBot/issues"
+  },
+  "homepage": "https://github.com/billxu0521/chatBot#readme",
+  "dependencies": {
+    "bottender": "^1.0.0-alpha.23",
+    "dotenv": "^8.2.0",
+    "random-item": "^3.0.0"
+  }
+}
